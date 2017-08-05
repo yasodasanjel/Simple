@@ -1,0 +1,6 @@
+print("Hello World")
+print("Whats your name??")
+myName = input()
+print("My name is " + myName)
+print("An Yours??")
+print(input())
